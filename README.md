@@ -5,10 +5,7 @@ Repository for Monash University Bootcamp Module 18 - JC City Bike Analysis.
 Link to the Tableau Workbook: [Tableau Workbook](https://public.tableau.com/shared/45478WW6W?:display_count=n&:origin=viz_share_link)
 
 ## File Structure
-
-- **DataSet**: Contains 12 CSV files with JC City Bike data for August 2022 - July 2023.
 - **Combining DataSet**: A Jupyter Notebook file that combines multiple CSV files into one.
-- **file4.csv**: The final CSV file with the raw data used for this analysis.
 - **City Bike Analysis**: A Tableau workbook file containing visualizations, dashboards, and the Tableau Story.
 - **README.md**: The file you are currently reading, providing an overview of the project and listing included files.
 
