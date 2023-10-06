@@ -24,6 +24,7 @@ Additionally, the ride duration metrics offer an understanding of ride preferenc
 Upon overlaying the bike stations with the 2018 household size layer, it's noticeable that most bike stations are situated in areas with household sizes ranging from 1.030 to 2.24. This could hint at several trends:
 - Areas with smaller household sizes might have more singles or young couples who prefer bikes over cars for daily commutes.
 - These areas might be more urbanized, making short bike trips more convenient than car rides.
+  
 Interactive Features:
 The dashboards are equipped with interactive features like filters, allowing users to view data for specific months or years. 
 
