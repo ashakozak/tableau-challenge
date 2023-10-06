@@ -1,5 +1,24 @@
 # tableau-challenge
 
+Repository for Monash University Bootcamp Module 18 - JC City Bike Analysis
+
+Link to the Tableau Workbook: https://public.tableau.com/shared/45478WW6W?:display_count=n&:origin=viz_share_link
+
+## File structure - tableau-challenge folder which contains:
+1. **DataSet** folder which contains 12 csv files with the JC City Bike data for the period August 2022 - July 2023
+2. **Combining DataSet**: jupyter notebook file that combines multiple csv files into one file
+3. **file4.csv**: the final csv file with the raw data used for this analysis. 
+4. **City Bike Analysis**: Tableau workbook file. It contains all the visualizations, dashboards, and the Tableau Story that were created for this project.
+5. **README.md**: You are currently reading this file. It provides an overview of the project and lists the included files.
+
+## Project Overview:
+
+This project aims to analyze bike share data and create data visualizations using Tableau. The primary focus is on understanding user trends, station popularity, and ride patterns. The project is divided into the following sections:
+- **Data Cleaning**: The data source file was cleaned to remove errors and ensure consistency.
+- **Data Visualization**: Visualizations were created to explore various aspects of the data.
+- **Tableau Dashboards**: Two Tableau dashboards were developed for specific data discovery.
+- **Tableau Story**: A Tableau Story was created to present the analysis coherently.
+- **Analysis**: Insights and trends discovered during the analysis are documented.
 
 ## Analysis:
 
@@ -28,5 +47,13 @@ Upon overlaying the bike stations with the 2018 household size layer, it's notic
 Interactive Features:
 The dashboards are equipped with interactive features like filters, allowing users to view data for specific months or years. 
 
-Conclusion:
-The analysis underscores the importance of Citi Bikes as an urban transit mode in Jersey City. Seasonal, weekly, and hourly trends highlight the times when bikes are most in demand. The geographical spread of start and end stations provides insights into potential commuting patterns, and the overlay with household data adds another dimension to understanding ridership preferences.
+
+
+
+## For any questions or feedback, please contact Joanna Kozak at joanna.kozak.au@gmail.com
+
+## Data sources
+JC City Bike reports: https://citibikenyc.com/system-data
+
+
+
