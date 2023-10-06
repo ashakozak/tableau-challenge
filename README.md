@@ -31,6 +31,8 @@ The first dashboard illustrates the monthly bike usage trends. Peak months for b
 
 Weekly and hourly trends indicate frequent bike usage on weekdays, particularly on Wednesdays, Thursdays, and Fridays, especially during the 17-18 hour, suggesting a preference for evening commute times.
 
+![Dashboard1](https://github.com/ashakozak/tableau-challenge/assets/134185577/4e1baf66-701b-4382-ba98-d2984d37d371)
+
 ### Dashboard 2 - Station Insights and Ride Duration Analysis
 
 This dashboard provides geographical insights into start station popularity, with dynamic monthly data. Start stations are centered around Jersey City, while end stations spread across New York, indicating a commuting pattern.
@@ -38,6 +40,8 @@ This dashboard provides geographical insights into start station popularity, wit
 Ride duration metrics show differences between membership types. While there are more members than casual riders, casual riders tend to have longer average rides.
 
 Overlaying bike stations with the 2018 household size layer reveals stations located in areas with household sizes ranging from 1.030 to 2.24, suggesting trends related to urbanization and transportation preferences.
+
+![Dashboard2](https://github.com/ashakozak/tableau-challenge/assets/134185577/3e1d5e37-4856-4a29-b16c-cc9f9e88aacb)
 
 ## Interactive Features
 
